@@ -1,0 +1,27 @@
+## PURIM Maps Web App
+Author
+Author: DYLEN GITAKA
+## Description
+The PURIM Maps Web App allows users to explore detailed information about countries, including their capital, population, area, currency, and languages. Users can search for specific countries using the input field or by clicking on country images provided on the webpage. The app utilizes RESTful APIs to fetch country data and integrates interactive maps using the Yandex Maps API.
+
+## Project Setup Instructions
+To set up and run the PURIM Maps Web App locally, follow these steps:
+
+Clone the repository to your local machine:
+
+bash
+Copy code
+git clone https://github.com/yourusername/purim-maps.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd purim-maps
+Open the index.html file in your preferred web browser.
+
+## Live Site
+Visit the live site on GitHub Pages: PURIM Maps Web App
+
+## Copyright and License
+Copyright: © [2024] [Dylen Gitaka]
+License: This project is licensed under the [Purim] License.
